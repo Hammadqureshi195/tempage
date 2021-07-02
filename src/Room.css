@@ -1,0 +1,21 @@
+.room{
+    height: 100vh;
+}
+
+.lit{
+    background-color: white;
+    color: black;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.button{
+    margin-right: 20px;
+    border-radius: 20px;
+    margin-left: 20px;
+    padding: 15px;
+    box-shadow: 5px 5px 1px black; 
+}
